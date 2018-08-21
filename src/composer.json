@@ -1,0 +1,17 @@
+{
+    "name": "sepia/alipay",
+    "description": "laravel aliapy package",
+    "authors": [
+        {
+            "name": "sepia",
+            "email": "38694102@qq.com"
+        }
+    ],
+    "autoload": {
+        "files": ["Lib/AopEncrypt.php"]
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "^1.17"
+    }
+}
